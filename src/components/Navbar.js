@@ -24,6 +24,7 @@ function Navbar() {
                     ONLINE ORDER
                 </Nav.Link>
             </Nav.Item>
+            <Button></Button>
     </Nav>
 
     )
